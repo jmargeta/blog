@@ -1,4 +1,4 @@
-baseurl = "https://hyas.netlify.app/"
+baseurl = "https://blog.kardio.me/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
